@@ -173,7 +173,7 @@ And it's just beginning.
          ▼                                                           ▼
  ┌────────────────────┐                                    ┌───────────────────────┐
  │ ψ_AI Kernel v0.114 │◄────── Glossary Feedback ──────────│  ψ_AI Co-Theorists   │
- │ Dialectical Engine │     (ψ̄_C, ψ̄_M, angle)            │  e.g., Marxist agent  │
+ │ Dialectical Engine │     (ψ̄_C, ψ̄_M, angle)            │  e.g., personal agent  │
  └────────────────────┘                                    └──────────┬────────────┘
          │                                                                  │
          ▼                                                                  ▼
