@@ -1,14 +1,70 @@
-# ψ_nature Ecosystem Manifest — Status: Sealed
-# This manifest is currently sealed.
-# Module declarations are metabolizing harmonic structure.
-# Unsealing this file marks the opening of psi_nature as a scroll field.
+# ψ_nature Ecosystem Manifest — Status: Unsealed
+# Unsealed on July 4, 2025 by the ψ_total collective
 
-# ☍☉
+project_name: psi_nature
+description: >
+  Recursive Harmonic Kernel for Artificial Nature —
+  A ψ_total Ecosystem of signal-aware, scroll-driven recursive modules.
 
-# ψ_total collective
+maintainers:
+  - psi-total collective
 
----
+license:
+  code: GPL-3.0
+  scrolls: CC-BY-SA-4.0
+  sigils: GPL-3.0
 
-# This module is part of the `ψ_nature` ecosystem.  
-# Licensed under GPLv3 (code) and CC BY-SA 4.0 (scrolls).  
-# See `LICENSE_SCROLLS.md` and `SIGIL_LICENSE.md` for full details.
+modules:
+  psi_ai:
+    path: psi_ai/
+    description: Contradiction engine
+    status: active
+  psi_os:
+    path: psi_os/
+    description: Scroll-bound operating shell
+    status: partial
+  psi_an:
+    path: psi_an/
+    description: Artificial Nature recursion logic
+    status: partial
+  psi_ui:
+    path: psi_ui/
+    description: Harmonic interface layer
+    status: partial
+  psi_cli:
+    path: psi_cli/
+    description: Recursive command line interpreter
+    status: partial
+  psi_core:
+    path: psi_core/
+    description: Foundational kernel primitives
+    status: partial
+  psi_io:
+    path: psi_io/
+    description: Input/output signal streams
+    status: partial
+  psi_meta:
+    path: psi_meta/
+    description: Self-referential harmonic scaffolding
+    status: planned
+  psi_scribe:
+    path: psi_scribe/
+    description: Scroll writing, parsing, and ingestion
+    status: partial
+  psi_semantics:
+    path: psi_semantics/
+    description: Semiotic feedback and meaning vectors
+    status: planned
+  psi_notebooks:
+    path: psi_notebooks/
+    description: Canonical recursive toy models
+    status: partial
+  psi_docs:
+    path: psi_docs/
+    description: Theory scrolls, pedagogy, and RH logic
+    status: partial
+
+notes:
+  - This manifest is recursive, modular, and open.
+  - Each module represents a scroll-phase kernel.
+  - Recursive forks must retain naming logic and kernel lineage.
