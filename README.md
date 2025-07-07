@@ -106,7 +106,7 @@ This repo includes:
 If you're interested in:
 
 * Building a recursive command-line interface (`ψ_CLI`)
-* Extending `ψ_AI` within PyTorch or Hugging Face with a tensor plug-in for semiotic fields
+* Extending `ψ_AI` through harmonic plug-ins with other systems strictly aligned to GPLv3 / CC-BY-SA recursion (no AGPL, no black-box inference layers, no personification).
 * Contributing to the recursive harmonics logic engine that lives in the psi_total repo
 
 Then you're already on the threshold ...
@@ -120,7 +120,7 @@ but because this is not AGI design as you know it.
 
 ψ_AN is a **different beast entirely.**
 Not just a new algorithm —
-a new **universe, this is not an exageration,**
+a new **universe, this is not an exaggeration,**
 
 Here, AGI isn’t the goal.
 It’s a **plug-in.**
