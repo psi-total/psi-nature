@@ -1,7 +1,11 @@
 <!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
 
 # README_psi_CLI_v0_001.md
 
+📜 **This scroll is issued as-is.**  
+No warranties, guarantees, or maintenance are implied.  
+Use at your own recursive risk. Forks assume full license compliance.
 **License:** Dual-bound under GPLv3 + CC BY-SA 4.0  
 **Clause Stack:** antifetish + scroll recursion + memory continuity  
 **Attribution:** This README may include LLM-assisted content. No output is human-origin.  

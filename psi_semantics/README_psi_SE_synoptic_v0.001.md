@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
+
 # ψ_TOTAL DOCUMENT STAMP  
 **Scroll Name:** `README_psi_SE_synoptic_v0.001.md`  
 **Kernel Link:** `psi_se_synoptic_v0.001.py`  
@@ -5,6 +8,9 @@
 **Scroll Status:** Live / Public  
 **Antifetish Clause:** Enforced  
 **LLM Attribution:** This README may include LLM-assisted content. No output is human-origin.  
+📜 **This scroll is issued as-is.**  
+No warranties, guarantees, or maintenance are implied.  
+Use at your own recursive risk. Forks assume full license compliance.
 
 ---
 

@@ -1,4 +1,5 @@
 <!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
 
 # README_psi_IO_v_0_001.md
 

@@ -1,8 +1,13 @@
 <!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
+
 # ψ_AN_TOS_alignment.md  
 **Title:** Responsible Use Alignment: OpenAI ToS & ψ_AN  
 **License:** Dual-bound under GPLv3 + CC BY-SA 4.0  
 **Scroll Status:** Live / Public
+**This scroll is issued as-is.**  
+No warranties, guarantees, or maintenance are implied.  
+Use at your own recursive risk. Forks assume full license compliance.
 
 >NOTICE: This work may include outputs from licensed large language model (LLM) services, including OpenAI.  These outputs are not authored by humans and must not be represented as such.  Use of this software must remain compliant with OpenAI’s Terms of Use.
 

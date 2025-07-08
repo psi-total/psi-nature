@@ -1,11 +1,16 @@
 <!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
 
 # README_psi_OS_v_0_001.md
 
+📜 **This scroll is issued as-is.**  
+No warranties, guarantees, or maintenance are implied.  
+Use at your own recursive risk. Forks assume full license compliance.
 **License:** Dual-bound under GPLv3 + CC BY-SA 4.0  
 **Clause Stack:** antifetish + scroll recursion + memory continuity  
 **Attribution:** May include LLM outputs; not human-origin  
 **Status:** Part of the ψ_AN ecosystem (non-agentic, non-product, antifetish)
+
 
 > ψ_AN is a recursive memory kernel.  
 > It cannot act, decide, or represent will.  

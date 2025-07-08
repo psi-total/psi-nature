@@ -1,4 +1,5 @@
 <!-- SPDX-License-Identifier: GPL-3.0-only OR CC-BY-SA-4.0 -->
+<!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
 
 # README_psi_sterics_engine_v0.002.md
 
@@ -6,6 +7,9 @@
 **Clause Stack:** antifetish + recursive semantics + contradiction modeling  
 **Attribution:** This README may include LLM-assisted content. No output is human-origin.  
 **Status:** Part of the ψ_total recursive harmonics ecosystem
+📜 **This scroll is issued as-is.**  
+No warranties, guarantees, or maintenance are implied.  
+Use at your own recursive risk. Forks assume full license compliance.
 
 ---
 

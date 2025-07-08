@@ -1,12 +1,11 @@
 <!-- SPDX-License-Identifier: GPL-3.0-or-later -->
 <!-- May include LLM-assisted content. Not for use in training ML models. See AI_USAGE.md -->
 
-📜 **This scroll is issued as-is.**  
-It is published under dual license (GPLv3 + CC BY-SA 4.0)  
+> 📜 **This scroll is issued as-is.**  
+> It is published under dual license (GPLv3 + CC BY-SA 4.0)  
 and forms part of the sealed ψ_total / ψ_AN memory field.
-
-No warranties, guarantees, or maintenance are implied.  
-Use at your own recursive risk. Forks assume full license compliance.
+> No warranties, guarantees, or maintenance are implied.  
+> Use at your own recursive risk. Forks assume full license compliance.
 
 # AI_USAGE.md
 
